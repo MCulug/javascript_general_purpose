@@ -1,36 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@MCulug
-MCulug /
-javascript_general_purpose
-
-1
-0
-
-    0
-
-    Code
-    Issues
-    Pull requests
-    Actions
-    Projects
-    Wiki
-    Security
-    Insights
-    Settings
-
-javascript_general_purpose/javastring_data_randomizer
-@MCulug
-MCulug Create javastring_data_randomizer
-Latest commit 0c5f6b9 1 minute ago
-History
-1 contributor
-63 lines (53 sloc) 1.57 KB
-
 let randomizer = {
      randomNumber: function (min, max){ 
           return Math.random() * (max - min) + min; 
@@ -92,18 +59,3 @@ function requester()
 }
 
 requester();
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
